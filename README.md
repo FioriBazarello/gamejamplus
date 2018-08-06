@@ -4,6 +4,6 @@
 <p> Arte criada por Gabrielle Saunitti e Rodrigo Nasca </p>
 
 <h3>Como Jogar?</h3>
-<p> Você pode jogar a versão web ou baixar a .apk para android na nossa <a href="https://mvaz.itch.io/glob">página do Itch.io</a></p>
+<p> Você pode jogar a versão web ou baixar a .apk para android na nossa <a target="_blank" href="https://mvaz.itch.io/glob">página do Itch.io</a></p>
 <p> Clique na tela para que Glob suba ou desça e capture os vírus. Fuja das paredes com espinhos que irão te matar! </p>
 <p> Você pode clicar várias vezes rápido para se manter centralizado </p>
